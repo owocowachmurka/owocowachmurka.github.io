@@ -69,6 +69,10 @@ body{
     overflow-y: scroll
 }
 
+.Home_tbody__DJOIadk::-webkit-scrollbar {
+    width: 7px;
+}
+
 .Home_trStyle__PDsPI,.Home_tr__F3_gs {
     background: linear-gradient(to right, rgb(0, 217, 255), rgb(255, 0, 200));
     display: table;
