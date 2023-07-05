@@ -58,6 +58,17 @@ body{
     border-radius: 10px;
 }
 
+.Home_tbody__DJOIa {
+    color: #000;
+    display: block;
+    height: 150px;
+    max-width: 900px;
+    overflow: auto;
+    padding: 10px 0;
+    scrollbar-width: thin;
+    overflow-y: scroll
+}
+
 .Home_trStyle__PDsPI,.Home_tr__F3_gs {
     background: linear-gradient(to right, rgb(0, 217, 255), rgb(255, 0, 200));
     display: table;
